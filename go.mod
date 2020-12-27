@@ -1,3 +1,3 @@
-module github.com/wowchemy/wowchemy-widget-starter
+module github.com/harveyzuo/wowchemy-widget-biophysics
 
 go 1.15
